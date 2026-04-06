@@ -1,9 +1,31 @@
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
 .venv/
+venv/
 env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data
 data/raw/
+data/processed/
+
+# Outputs
 outputs/checkpoints/
 outputs/predictions/
-.ipynb_checkpoints/
-.DS_Store
+outputs/figures/
+
+# Logs / misc
+*.log
