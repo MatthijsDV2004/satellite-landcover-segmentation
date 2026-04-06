@@ -38,7 +38,7 @@ Best baseline result so far:
 
 Below is a sample of validation predictions from the baseline U-Net model. Each row shows the original satellite image, the ground-truth segmentation mask, and the predicted segmentation output.
 
-![Prediction Examples](assets/prediction_examples_baseline.png)
+![Prediction Examples](outputs/figures/prediction_examples_baseline.png)
 
 ## Future Work
 - Train with larger input resolution such as 384x384
