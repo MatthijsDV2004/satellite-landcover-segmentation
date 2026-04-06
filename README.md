@@ -20,9 +20,21 @@ U-Net with ResNet34 encoder
 - Validation loss
 
 ## Results
-Add example prediction images here.
+![Prediction Examples](outputs/figures/prediction_examples_baseline.png)
 
 ## Future Work
 - Try DeepLabV3+
 - Add geospatial metadata support
 - Build a demo dashboard
+
+## Citation
+
+```bibtex
+@InProceedings{DeepGlobe18,
+ author = {Demir, Ilke and Koperski, Krzysztof and Lindenbaum, David and Pang, Guan and Huang, Jing and Basu, Saikat and Hughes, Forest and Tuia, Devis and Raskar, Ramesh},
+ title = {DeepGlobe 2018: A Challenge to Parse the Earth Through Satellite Images},
+ booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+ month = {June},
+ year = {2018}
+}
+```

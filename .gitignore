@@ -25,7 +25,6 @@ data/processed/
 # Outputs
 outputs/checkpoints/
 outputs/predictions/
-outputs/figures/
 
 # Logs / misc
 *.log
